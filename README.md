@@ -1,4 +1,4 @@
-# Certificate-Generator-using-Javascript
+# Certificate-maker
 
 Using JavaScript in a PDF to quickly and easily generate multiple (40-50) course completion certificates.
 
